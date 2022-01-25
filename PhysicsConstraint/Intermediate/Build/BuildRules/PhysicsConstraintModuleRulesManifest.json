@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE4MasteryCourse\\PhysicsConstraint\\Source\\PhysicsConstraint\\PhysicsConstraint.Build.cs",
+		"D:\\UE4MasteryCourse\\PhysicsConstraint\\Source\\PhysicsConstraint.Target.cs",
+		"D:\\UE4MasteryCourse\\PhysicsConstraint\\Source\\PhysicsConstraintEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.2"
+}

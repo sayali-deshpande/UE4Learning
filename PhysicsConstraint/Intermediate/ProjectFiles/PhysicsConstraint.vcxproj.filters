@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PhysicsConstraint.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D0F51894-03E4-48F9-9664-10887E26BE39}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PhysicsConstraint.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PhysicsConstraintEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D8AF47C4-CF50-484F-B373-20937D79360A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PhysicsConstraint">
+      <UniqueIdentifier>{20BFBE6F-E060-4956-A048-AC7A03FC6F5D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PhysicsConstraint\PhysicsConstraint.Build.cs">
+      <Filter>Source\PhysicsConstraint</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PhysicsConstraint\PhysicsConstraint.cpp">
+      <Filter>Source\PhysicsConstraint</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhysicsConstraint\PhysicsConstraint.h">
+      <Filter>Source\PhysicsConstraint</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PhysicsConstraint\PhysicsConstraintCharacter.cpp">
+      <Filter>Source\PhysicsConstraint</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhysicsConstraint\PhysicsConstraintCharacter.h">
+      <Filter>Source\PhysicsConstraint</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PhysicsConstraint\PhysicsConstraintGameMode.cpp">
+      <Filter>Source\PhysicsConstraint</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhysicsConstraint\PhysicsConstraintGameMode.h">
+      <Filter>Source\PhysicsConstraint</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

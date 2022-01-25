@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PhysicsConstraint",
+			"Path": "D:\\UE4MasteryCourse\\PhysicsConstraint\\Source\\PhysicsConstraint.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PhysicsConstraintEditor",
+			"Path": "D:\\UE4MasteryCourse\\PhysicsConstraint\\Source\\PhysicsConstraintEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
